@@ -6,14 +6,14 @@ This project creates a visualization dashboard website using visualizations I cr
 
 This dashboard contains the following pages:
 
-* A [landing page](index.html):
+* A [landing page](https://angang-li.github.io/weather-visualization/index.html):
   * An explanation of the project.
-* Four visualization pages([temperature](visualizations/temp.html), [humidity](visualizations/humidity.html), [cloudiness](visualizations/cloudiness.html), and [wind speed](visualizations/wind-speed.html)):
+* Four visualization pages([temperature](https://angang-li.github.io/weather-visualization/visualizations/temp.html), [humidity](https://angang-li.github.io/weather-visualization/visualizations/humidity.html), [cloudiness](https://angang-li.github.io/weather-visualization/visualizations/cloudiness.html), and [wind speed](https://angang-li.github.io/weather-visualization/visualizations/wind-speed.html)):
   * The plot/visualization for the selected comparison.
   * A paragraph describing the plot and its significance.
-* A [comparison page](comparison.html):
+* A [comparison page](https://angang-li.github.io/weather-visualization/comparison.html):
   * All of the visualizations on the same page so we can easily visually compare them.
-* A [data page](data.html):
+* A [data page](https://angang-li.github.io/weather-visualization/data.html):
   * Displays a responsive table containing the data used in the visualizations.
 
 All pages have a navigation menu that links to all other pages. All pages are responsive to various screen sizes (bootstrap, media queries).
