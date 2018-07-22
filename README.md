@@ -41,3 +41,9 @@ This section contains screenshots of each page.
 Here's an example of one:
 
 ![visualize page large screen](Images/visualize-lg.png)
+
+- - -
+
+### Copyright
+
+Data Boot Camp © 2018. All Rights Reserved.
