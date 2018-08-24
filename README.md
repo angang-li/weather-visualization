@@ -2,9 +2,9 @@
 
 Check out my visualization dashboard [here](https://angang-li.github.io/weather-visualization/index.html)!
 
-## Description
+## 1. Description
 
-This project creates a visualization dashboard website using visualizations I created [previously](https://github.com/angang-li/northwestern-data-science-bootcamp/tree/master/hw6-api). Weather data were analyzed and plotted.
+This project creates a visualization dashboard website using weather visualizations I created [previously](https://github.com/angang-li/northwestern-data-science-bootcamp/tree/master/hw6-api), where weather data were requested from API, analyzed, and plotted.
 
 This dashboard contains the following pages:
 
@@ -20,7 +20,12 @@ This dashboard contains the following pages:
 
 Each page includes a navigation menu that links to all other pages. All pages are responsive to various screen sizes, aka., mobile friendly.
 
-## Screenshots
+## 2. How to run the app
+
+1. Clone this repository
+2. Open `index.html`. The webpage will then display on the browser.
+
+## 3. Screenshots of the app
 
 This section contains screenshots of each page.
 
